@@ -1,7 +1,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2026 Emil Ivanov. Tous droits réservés.</p>
+    <p>Designed and Build by Emil Ivanov</p>
 </footer>
 </body>
 </html>

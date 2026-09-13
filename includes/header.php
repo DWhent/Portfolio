@@ -15,7 +15,7 @@
             <li><a href="/portfolio/projects.php">Projects</a></li>
         </ul>
     </nav>
-    <button id="
+    <button >Let's Connect</button>
 </header>
 
 <main>
