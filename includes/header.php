@@ -8,14 +8,16 @@
 </head>
 <body>
 <header>
-    <nav>
-        <ul>
-            <li><a href="/portfolio/index.php">Home</a></li>
-            <li><a href="/portfolio/about.php">About</a></li>
-            <li><a href="/portfolio/projects.php">Projects</a></li>
+            <a href="/portfolio/index.php" class="logo">Emil.</a>
+
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li class="nav-item"><a class="nav-link" href="/portfolio/index.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="/portfolio/about.php">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="/portfolio/projects.php">Projects</a></li>
         </ul>
+        <button class="connect-button">Let's Connect</button>
     </nav>
-    <button >Let's Connect</button>
 </header>
 
 <main>

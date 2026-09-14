@@ -23,9 +23,9 @@ include __DIR__ . "/includes/header.php";
     with React, Node.js, .NET, and Express.js for building more dynamic applications.
     I also work with C#, Kotlin, and Swift, alongside Git, GitHub, MySQL, MongoDB, and REST APIs.
 </p>
-<button>Look at my Projects</button>
+<button class="projects-button">Look at my Projects</button>
 
-<button>Let's Connect</button>
+<button class="connect-button">Let's Connect</button>
 
 
 <?php
